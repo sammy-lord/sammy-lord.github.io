@@ -1,4 +1,4 @@
-# About me (Sammy Lord) <img src="pompom.jpg" width="20%" align="right"></img>
+# About me (Sammy Lord) <img src="pompom.jpg" width="20%" align="right">
 
 💖 Opinion approved. 💖 
 
