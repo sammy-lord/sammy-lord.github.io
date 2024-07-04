@@ -13,6 +13,6 @@
 * ***💖 Your opinion is valid. 💖***
 
 ## Links
-[Blog](/blog) - [Personal Homepage](/homepage) - [Download Free Ram ;)](/download-free-ram) - [Sneed Group Github](https://github.com/Sneed-Group)
+[Blog](/blog) - [Personal Homepage](/homepage) - [Download Free Ram ;)](/download-free-ram) - [Sneed Group Github](https://github.com/Sneed-Group) - [Personal Cloud](https://cloud.sparksammy.com) - [Discord Server](/dizzy)
 
 You can donate to me or send money as per the SPL-R5 [here.](https://coindrop.to/sneed-group)
