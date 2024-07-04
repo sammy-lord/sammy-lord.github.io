@@ -1,6 +1,6 @@
 # About me (Sammy Lord) <img src="pompom.jpg" width="20%" align="right"></img>
 
-:sparkling_heart: Opinion approved.:sparkling_heart: 
+💖 Opinion approved. 💖 
 
 * Bisexual
 * Homoromatic
