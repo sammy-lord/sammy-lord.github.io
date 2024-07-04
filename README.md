@@ -1,6 +1,6 @@
-# About me (Sammy Lord) <img src="pompom.jpg" width="20%" align="right">
+# Sammy Lord <img src="pompom.jpg" width="20%" align="right">
 
-💖 Opinion approved. 💖 
+## About me
 
 * Bisexual
 * Homoromatic
@@ -10,5 +10,9 @@
 * Favorite things: femboys (ages 18-24 years), Linux, GNU, Open Source, Javascript, HTML, VSCodium, Shotcut, NodeJS, italian food, Minetest, Snowden, Stallman, Torvlads.
 * Hates: planned obsolescence, macOS, windows, adobe, google, microsoft, mojang, roblox's incompatibility with linux, slow internet speeds, Trump, apple's bullshit, apple's prices, system76's prices, the pinephone, glowies, the fact that most FOSS projects call people "rotten flesh" or "natzis" for not aligning with their principles verbatim (That's why I joined Sneed Group.)
 * 264lbs of pure awesomeness.
+* ***💖 Your opinion is valid. 💖***
+
+## Links
+[Blog](/blog) - [Personal Homepage](/homepage) - [Download Free Ram ;)](/download-free-ram) - [Sneed Group Github](https://github.com/Sneed-Group)
 
 You can donate to me or send money as per the SPL-R5 [here.](https://coindrop.to/sneed-group)
