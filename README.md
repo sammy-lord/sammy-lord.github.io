@@ -1,5 +1,7 @@
 # About me (Sammy Lord)
 
+:sparkling_heart: Opinion approved.:sparkling_heart: 
+
 * Bisexual
 * Homoromatic
 * Neurodivergent
