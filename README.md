@@ -1,6 +1,4 @@
-# Sammy Lord <img src="pompom.jpg" width="20%" align="right">
-
-## About me
+## About me <img src="pompom.jpg" width="20%" align="right">
 
 * Bisexual
 * Homoromatic
