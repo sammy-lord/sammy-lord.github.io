@@ -1,7 +1,7 @@
 ## About me <img src="pompom.jpg" width="20%" align="right">
 
-* Bisexual
-* Biromatic (femboys/mtf without bottom surgery)
+* Bisexual (femboys/mtf without bottom surgery)
+* Biromatic (see above)
 * Neurodivergent
 * Genderfluid
 * Pronouns are: per/pers/person
