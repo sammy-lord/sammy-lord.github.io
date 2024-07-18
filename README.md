@@ -1,12 +1,12 @@
 ## About me <img src="pompom.jpg" width="20%" align="right">
 
-* Bisexual (femboys/mtf without bottom surgery)
-* Biromatic (see above)
+* Bisexual (femboys/mtf without bottom surgery 18-24 years of age avg.)
+* Homoromatic (femboys 18-24 years of age)
 * Neurodivergent
 * Genderfluid
 * Pronouns are: per/pers/person
 * Fav colors: red and blue
-* Favorite things: femboys (ages 18-24 years), mtf trans w/o bottom surgery (18-24 years) Linux, GNU, Open Source, Javascript, HTML, VSCodium, Shotcut, NodeJS, italian food, Minetest, Snowden, Stallman, Torvalds.
+* Favorite things: femboys (ages 18-24 years), Linux, GNU, Open Source, Javascript, HTML, VSCodium, Shotcut, NodeJS, italian food, Minetest, Snowden, Stallman, Torvalds.
 * Hates: planned obsolescence, macOS, windows, adobe, google, microsoft, mojang, the fact that nobody cares that most big tech services are spying on us, roblox's incompatibility with linux, slow internet speeds, Trump, apple's bullshit, apple's prices, system76's prices, the pinephone, glowies, the fact that most FOSS projects call people "rotten flesh" or "natzis" for not aligning with their principles verbatim (That's why I joined Sneed Group.)
 * 264lbs/5ft 11in of pure awesomeness.
 * ***💖 Your opinion is valid. 💖***
