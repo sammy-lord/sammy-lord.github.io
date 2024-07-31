@@ -16,6 +16,8 @@
 
 You can donate to me or send money as per the SPL-R5 [here.](https://coindrop.to/sneed-group)
 
+( Note that "Sammy Lord" ***is not*** my real name. It's ***a reference to Samuel Hall Lord (combined with Sparksammy.)*** More info about them [here.](https://en.wikipedia.org/wiki/Samuel_Hall_Lord) )
+
 ---
 
 Copyright Sammy Lord. All rights reserved. 
