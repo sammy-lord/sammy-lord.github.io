@@ -13,8 +13,13 @@
 
 ( Note that "Sammy Lord" ***is not*** my real name, ***it is a nickname.*** Charles D. Spellman is my real name. ***"Sammy Lord" is a reference to Samuel Hall Lord (combined with Sparksammy.)*** More info about them [here.](https://en.wikipedia.org/wiki/Samuel_Hall_Lord) )
 
+## Game servers...
+
+🍎 MC Game Server:
+play.nodemixaholic.com
+
 ## Links
-[Blog](/blog) - [Personal Homepage](/homepage) - [Download Free Ram ;)](/download-free-ram) - [Sneed Group Github](https://github.com/Sneed-Group) - [Personal GitHub (Managed by Sneed Group)](https://github.com/orgs/sammy-lord/) - [Personal Cloud](https://cloud.sparksammy.com) - [My Mastodon](https://skrt.social/@sparksammy) - [Tech Docs (WIP)](/tech-docs) - [Flash (Adobe Animate) ACA](/flashcert.pdf) - [Premiere Pro ACA](/ppcert.pdf) - [Buy some merch!](https://0xclthz.myspreadshop.com/)
+[Blog](/blog) - [Personal Homepage](/homepage) - [Download Free Ram ;)](/download-free-ram) - [Sneed Group Github](https://github.com/Sneed-Group) - [Personal GitHub (Managed by Sneed Group)](https://github.com/orgs/sammy-lord/) - [Personal Cloud](https://cloud.sparksammy.com) - [My Mastodon](https://skrt.social/@sparksammy) - [Tech Docs (WIP)](/tech-docs) - [Flash (Adobe Animate) ACA](/flashcert.pdf) - [Premiere Pro ACA](/ppcert.pdf) - [Buy some merch!](https://0xclthz.myspreadshop.com/) - [🔐 MC Auth Server](https://mcauth.nodemixaholic.com)
 
 You can donate to me or send money as per the SPL-R5 [here.](https://coindrop.to/sneed-group)
 
