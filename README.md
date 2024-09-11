@@ -19,7 +19,7 @@
 play.nodemixaholic.com
 
 ## Links
-[Blog](/blog) - [Personal Homepage](/homepage) - [Download Free Ram ;)](/download-free-ram) - [Sneed Group Github](https://github.com/Sneed-Group) - [Personal GitHub (Managed by Sneed Group)](https://github.com/orgs/sammy-lord/) - [Personal Cloud](https://cloud.sparksammy.com) - [My Mastodon](https://skrt.social/@sparksammy) - [Tech Docs (WIP)](/tech-docs) - [Flash (Adobe Animate) ACA](/flashcert.pdf) - [Premiere Pro ACA](/ppcert.pdf) - [Buy some merch!](https://0xclthz.myspreadshop.com/) - [🔐 MC Auth Server](https://mcauth.nodemixaholic.com)
+[Blog](/blog) - [Personal Homepage](/homepage) - [Download Free Ram ;)](/download-free-ram) - [Sneed Group Github](https://github.com/Sneed-Group) - [Personal GitHub (Managed by Sneed Group)](https://github.com/orgs/sammy-lord/) - [Personal Cloud](https://cloud.sparksammy.com) - [My Mastodon](https://skrt.social/@sparksammy) - [Tech Docs (WIP)](/tech-docs) - [Flash (Adobe Animate) ACA](/flashcert.pdf) - [Premiere Pro ACA](/ppcert.pdf) - [Buy some merch!](https://0xclthz.myspreadshop.com/) - [Buy a NFT](https://marketplace.mintable.com/profile/nodemixaholic) - [🔐 MC Auth Server](https://mcauth.nodemixaholic.com)
 
 You can donate to me or send money as per the SPL-R5 [here.](https://coindrop.to/sneed-group)
 
