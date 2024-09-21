@@ -3,7 +3,7 @@
 * Bisexual (femboys/mtf without bottom surgery 18-24 years of age avg.)
 * Homoromatic (femboys 18-24 years of age)
 * Neurodivergent
-* Genderfluid
+* Genderneutral
 * Pronouns are: per/pers/person
 * Fav colors: red and blue
 * Favorite things: femboys (ages 18-24 years), Linux, GNU, Open Source, Javascript, HTML, VSCodium, Shotcut, NodeJS, italian food, Minetest, Snowden, Stallman, Torvalds.
