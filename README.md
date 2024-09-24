@@ -2,7 +2,7 @@
 
 * Autistic
 * Has ADHD
-* Bisexual (femboys/mtf without bottom surgery 18-24 years of age avg.)
+* Bisexual (femboys 18+/mtf without bottom surgery 18-24 years of age avg.)
 * Homoromatic (femboys 18+)
 * Genderfluid/Genderneutral
 * Pronouns are: per/pers/person
