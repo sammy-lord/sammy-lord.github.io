@@ -7,8 +7,8 @@
 * Genderfluid/Genderneutral
 * Pronouns are: per/pers/person
 * Fav colors: red and blue
-* Favorite things: femboys (ages 18-24 years), Linux, GNU, Open Source, Javascript, HTML, VSCodium, Shotcut, NodeJS, italian food, Minetest, Snowden, macOS, Apple, iOS, iPadOS Torvalds.
-* Hates: planned obsolescence, macOS, windows, adobe, google, microsoft, mojang, the fact that nobody cares that most big tech services are spying on us, roblox's incompatibility with linux, slow internet speeds, Trump, apple's bullshit, apple's prices, system76's prices, the pinephone, glowies, the fact that most FOSS projects call people "rotten flesh" or "natzis" for not aligning with their principles verbatim (That's why I joined Sneed Group.)
+* Favorite things: femboys (ages 18-24 years), Linux, GNU, Open Source, Javascript, HTML, VSCode, sneedCode, Sneedium, Final Cut Pro, NodeJS, italian food, Minetest, Snowden, macOS, Apple, iOS, iPadOS Torvalds, Sneed Group, Krita, Arc Browser, Minecraft, Librewolf.
+* Hates: planned obsolescence, windows, linux, adobe, google, microsoft, mojang, the fact that nobody cares that most big tech services not named "Apple" are spying on us, roblox's incompatibility with linux, slow internet speeds, Trump, apple's prices, system76's prices, the pinephone, glowies, the fact that most "FOSS" projects call people "rotten flesh" or "natzis" for not aligning with their principles verbatim (That's why I joined Sneed Group.)
 * 264lbs/5ft 11in of pure awesomeness.
 * ***💖 Your opinion is valid. 💖***
 
